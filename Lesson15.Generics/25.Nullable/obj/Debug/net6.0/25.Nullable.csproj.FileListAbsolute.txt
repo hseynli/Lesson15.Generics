@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\bin\Debug\net6.0\25.Nullable.exe
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\bin\Debug\net6.0\25.Nullable.deps.json
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\bin\Debug\net6.0\25.Nullable.runtimeconfig.json
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\bin\Debug\net6.0\25.Nullable.dll
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\bin\Debug\net6.0\25.Nullable.pdb
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\obj\Debug\net6.0\25.Nullable.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\obj\Debug\net6.0\25.Nullable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\obj\Debug\net6.0\25.Nullable.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\obj\Debug\net6.0\25.Nullable.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\obj\Debug\net6.0\25.Nullable.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\obj\Debug\net6.0\25.Nullable.dll
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\obj\Debug\net6.0\refint\25.Nullable.dll
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\obj\Debug\net6.0\25.Nullable.pdb
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\obj\Debug\net6.0\25.Nullable.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson15.Generics\25.Nullable\obj\Debug\net6.0\ref\25.Nullable.dll

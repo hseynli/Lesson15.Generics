@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\bin\Debug\net6.0\10.Generics.exe
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\bin\Debug\net6.0\10.Generics.deps.json
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\bin\Debug\net6.0\10.Generics.runtimeconfig.json
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\bin\Debug\net6.0\10.Generics.dll
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\bin\Debug\net6.0\10.Generics.pdb
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\obj\Debug\net6.0\10.Generics.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\obj\Debug\net6.0\10.Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\obj\Debug\net6.0\10.Generics.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\obj\Debug\net6.0\10.Generics.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\obj\Debug\net6.0\10.Generics.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\obj\Debug\net6.0\10.Generics.dll
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\obj\Debug\net6.0\refint\10.Generics.dll
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\obj\Debug\net6.0\10.Generics.pdb
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\obj\Debug\net6.0\10.Generics.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson15.Generics\10.Generics\obj\Debug\net6.0\ref\10.Generics.dll
